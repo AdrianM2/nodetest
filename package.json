@@ -1,0 +1,19 @@
+{
+  "name": "nodetest",
+  "version": "1.0.0",
+  "description": "testingn",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdrianM2/nodetest.git"
+  },
+  "author": "Adrian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdrianM2/nodetest/issues"
+  },
+  "homepage": "https://github.com/AdrianM2/nodetest#readme"
+}
